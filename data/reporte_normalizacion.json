@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "fecha_generacion": "2025-06-01T23:21:52.579713",
+        "version": "1.0.0",
+        "autor": "Tu Nombre",
+        "fecha_actualizacion": "2024-03-15"
+    },
+    "datos": {
+        "originales": [
+            50.0,
+            150.0,
+            300.0
+        ],
+        "normalizados": [
+            0.0,
+            0.4,
+            1.0
+        ],
+        "estadisticas": {
+            "min": 50.0,
+            "max": 300.0,
+            "rango": 250.0
+        }
+    }
+}
